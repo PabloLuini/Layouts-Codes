@@ -1,0 +1,16 @@
+body{
+
+    background: url("../img/background.png");
+
+}
+
+.Madeira{
+ 
+    width: 350px;
+    height: 200px;
+    background:url("../img/Madeira_fundo.png");
+    position: absolute;
+    left: 39%;
+    top: 35%; 
+ 
+}
