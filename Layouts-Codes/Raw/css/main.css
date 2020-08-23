@@ -1,7 +1,8 @@
 body{
-
+    
     background: url("../img/background.png");
-
+    background-size: 1950px; 
+    background-repeat: no-repeat;   
 }
 
 .Madeira{
@@ -13,4 +14,58 @@ body{
     left: 15%;
     top: 5%; 
  
+}
+
+.imgLogo{
+
+   width: 364px; 
+   height: 576px;    
+   background: url("../img/Logo.png");
+   position: absolute;
+   left: 38%;
+   top: 19%; 
+}
+
+.imgSeta{
+
+   width: 64px;
+   height: 35px;
+   background: url("../img/Seta.png");
+   position: absolute;
+   left: 48.3%;
+   top: 80%; 
+}
+
+.fundoErvilha{
+
+    width: 1357px;
+    height: 635px;
+    background:url("../img/FundoBrancoErvilha.png");
+    position: absolute;
+    left: 15%;
+    top: 85%; 
+
+}
+
+.ervilhas{
+
+    width: 811px;
+    height: 634px;
+    background:url("../img/Ervilhas.png");
+    position: absolute;
+    left: 43.7%;
+    top: 85%; 
+
+}
+
+.Nomepg{
+
+    font-family: Georgia;
+    font-size: 30px;
+    position: absolute;
+    left: 18%;
+    top: 3.5%; 
+   
+
+
 }
