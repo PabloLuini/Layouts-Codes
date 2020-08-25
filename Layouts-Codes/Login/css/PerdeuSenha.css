@@ -1,0 +1,101 @@
+body {
+
+    background-color: #04213c;
+   
+}
+
+.imgcentro{
+
+   width: 350px;
+   height: 200px;
+   background:url('https://i0.wp.com/wp.ufpel.edu.br/filosofiaead/files/2017/06/fundo-branco.png');
+   position: absolute;
+   left: 39%;
+   top: 35%; 
+
+} 
+ 
+.email{
+
+  
+    position: absolute;
+    left: 41%;
+    top: 37%; 
+    color: darkgray;
+ 
+}
+
+.CaixaEmail{
+
+    position: absolute;
+    left: 1,5%;
+    top: 150%;
+    
+
+
+}
+
+.Senha{
+
+  
+    position: absolute;
+    left: 41%;
+    top: 44%; 
+    color: darkgray;
+
+}
+
+.CaixaSenha{
+
+    position: absolute;
+    left: 1.5%;
+    top: 150%;
+    
+
+
+}
+
+.botao{
+
+    width:55px;
+    height:16px;
+    position: absolute;
+    left:44%;
+    top: 51.8%;
+
+}
+
+.MostraSenha{
+
+    position: absolute;
+    left:40%;
+    top:52%;
+    color: #818181;
+
+}
+
+.ButonEnviar{
+
+    position: absolute;
+    left:51.5%;
+    top: 51.8%;
+    padding: 5px 20px;
+    border-radius: 20px;
+    border-style:none;                               
+    width: 0 20px ;
+    background: #1a6bb6;
+    color: #fff
+}
+
+.imgLogo{
+
+    width:9%;
+    height: 13%;
+    background:url("../img/Logo_login_2.png");
+    position: absolute;
+    left: 43.03%;
+    top: 12%; 
+ 
+} 
+
+
