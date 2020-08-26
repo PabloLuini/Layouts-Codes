@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    text-decoration: none ;
+    font-weight: 300;
+    list-style: none;
+    
+}
+
+body{
+
+    background-image: url("../img/Fundo_Part1.png");
+    background-repeat: no-repeat;
+   
+} 
+
+.container{
+
+    width: 1024px;
+    margin: 30px  auto;
+    display: flex;
+    flex-direction: column;
+
+}
