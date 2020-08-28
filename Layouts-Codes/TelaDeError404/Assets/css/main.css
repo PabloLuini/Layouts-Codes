@@ -17,10 +17,11 @@ header section article #Numbers{
 
 #conteudo #GoBack {
 
+  padding: 0px 0px 0px 0px;
   margin: 25px 0px 0px 45px;
   text-transform: uppercase;
   font-size: 19px;
-  color: black;
+  color: white;
   font-weight: bold;
 
 }
@@ -29,13 +30,13 @@ header section article #Numbers{
 
   margin: 25px 0px 0px -30px;
   font-size: 20px;
-  color: black;
+  color: white;
 
 }
 
 #text{
 
-  margin: 25px 0px 0px -7px;
+  margin: 15px 0px 0px -7px;
 
 
 }
